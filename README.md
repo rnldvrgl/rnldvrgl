@@ -55,33 +55,22 @@ Here are some of the languages and tools I work with:
 </p>
 
 ## GitHub Stats:
-<a href="https://github.com/rnldvrgl/Kyoo">
-  <img height=400 width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&layout=donut-vertical&theme=dark" alt="Top Languages" />
-</a>
 
-<p align="center">
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rnldvrgl)](https://github.com/rnldvrgl/github-readme-stats)
+
   <a href="[https://github.com/rnldvrgl/Kyoo](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=transparent" alt="GitHub Stats" />
   </a>
-  
+
+  <a href="[https://github.com/rnldvrgl/Kyoo](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=transparent&hide_progress=true&layout=compact&langs_count=8&card_width=320)">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=transparent&hide_progress=true&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
+  </a>
+
   <a href="[https://github.com/rnldvrgl/Kyoo](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark)">
-    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark" alt="GitHub Streak" />
+    <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=transparent" alt="GitHub Streak" />
   </a>
-</p>
 
-<p align="center">
-<a href="https://github.com/rnldvrgl/Kyoo">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnldvrgl&repo=Kyoo&theme=dark" />
-</a>
 
-<a href="https://github.com/rnldvrgl/robofriends">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnldvrgl&repo=robofriends&theme=dark" />
-</a>
-
-<a href="https://github.com/rnldvrgl/rnldvrgl">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnldvrgl&repo=rnldvrgl&theme=dark" />
-</a>
-</p>
 
 ## Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)

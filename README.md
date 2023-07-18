@@ -56,18 +56,17 @@ Here are some of the languages and tools I work with:
 
 ## GitHub Stats:
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rnldvrgl)](https://github.com/rnldvrgl/github-readme-stats)
 
   <a href="[https://github.com/rnldvrgl/Kyoo](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=transparent" alt="GitHub Stats" />
+    <img height=200 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=transparent" alt="GitHub Stats" />
   </a>
 
   <a href="[https://github.com/rnldvrgl/Kyoo](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=transparent&hide_progress=true&layout=compact&langs_count=8&card_width=320)">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=transparent&hide_progress=true&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
+    <img height=200 width="100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=transparent&hide_progress=true&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
   </a>
 
   <a href="[https://github.com/rnldvrgl/Kyoo](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark)">
-    <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=transparent" alt="GitHub Streak" />
+    <img width="100% align="center" width="100% src="https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=transparent" alt="GitHub Streak" />
   </a>
 
 

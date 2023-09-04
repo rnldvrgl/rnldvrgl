@@ -54,6 +54,8 @@ Here are some of the languages and tools I work with:
   <!-- Add more icons here -->
 </p>
 
+![snake gif](https://github.com/rnldvrgl/rnldvrgl/blob/output/github-contribution-grid-snake.gif)
+
 ## GitHub Stats:
 
 

@@ -5,7 +5,7 @@
 ## About Me:
 I'm an aspiring full stack web developer passionate about creating interactive web applications and exploring various technologies and frameworks.
 
-- 🔭 I’m currently working on an E-Commerce project with CMS using Next.js.
+- 🔭 I’m currently working on Genie.
 - 🌱 I’m currently learning Next.js, React.js, and Prisma.
 - 💬 Ask me about web development.
 - 📫 How to reach me: delacruz.ronaldvergel@gmail.com

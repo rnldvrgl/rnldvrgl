@@ -1,5 +1,7 @@
 # Hi there, I'm Ronald Vergel Dela Cruz! 👋
 
+![gitartwork](gitartwork.svg)
+
 ## About Me:
 I'm an aspiring full stack web developer passionate about creating interactive web applications and exploring various technologies and frameworks.
 
@@ -53,8 +55,6 @@ Here are some of the languages and tools I work with:
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
   <!-- Add more icons here -->
 </p>
-
-![snake gif](https://github.com/rnldvrgl/rnldvrgl/blob/output/github-contribution-grid-snake.gif)
 
 ## GitHub Stats:
 

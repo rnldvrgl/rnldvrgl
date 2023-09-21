@@ -1,4 +1,4 @@
-aa# Hi there, I'm Ronald Vergel Dela Cruz! 👋
+# Hi there, I'm Ronald Vergel Dela Cruz! 👋
 
 ![gitartwork](gitartwork.svg)
 

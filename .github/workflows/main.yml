@@ -3,7 +3,7 @@ name: Update README
 on:
   schedule:
     # Every 6 hours
-    - cron: "0 */1 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch: # Add this section for manual triggering
 
 jobs:
@@ -16,6 +16,10 @@ jobs:
 
       - name: Update README
         run: |
+          # Set Git user email and name
+          git config user.email "delacruz.ronaldvergel@gmail.com"
+          git config user.name "Ronald Vergel Dela Cruz"
+          
           # Generate new content and update the README
           echo "This is updated content for the README" > README.md
           git add README.md

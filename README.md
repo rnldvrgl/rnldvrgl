@@ -1,11 +1,11 @@
 
-Last Updated: 2023-09-22 23:30:02
+Last Updated: 2023-09-22 23:33:45
 # Hi there, I'm Ronald Vergel Dela Cruz! 👋
 ![gitartwork](gitartwork.svg)
 
 ## About Me:
-I'm an aspiring full stack web developer passionate about creating interactive web applications and exploring various technologies and frameworks.
-- 🔭 I’m currently working on Genie.
+I'm a full stack web developer at GeoPro Global Solutions Inc. that is passionate about creating interactive web applications and exploring various technologies and frameworks.
+- 🔭 I’m currently working on Easethethics Project, Netflix Clone, Portfolio, etc.
 - 🌱 I’m currently learning Next.js, React.js, and Prisma.
 - 💬 Ask me about web development.
 - 📫 How to reach me: delacruz.ronaldvergel@gmail.com

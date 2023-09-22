@@ -79,6 +79,12 @@ jobs:
           echo "  <a href='https://tailwindcss.com/' target='_blank' rel='noreferrer'><img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt='Tailwind CSS' width='40' height='40'/></a>" >> README.md
           echo "  <a href='https://www.typescriptlang.org/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' alt='TypeScript' width='40' height='40'/></a>" >> README.md
           echo "" >> README.md
+          
+           # Increment the count
+          CURRENT_COUNT=$(grep -oP 'Visitor Count\(\K[0-9]+' README.md)
+          NEW_COUNT=$((CURRENT_COUNT+1))
+          sed -i "s/Visitor Count($CURRENT_COUNT/Visitor Count($NEW_COUNT/g" README.md
+          
           echo "## GitHub Stats:" >> README.md
           echo "Explore my GitHub stats and coding activities:<br>" >> README.md
           echo "- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)](https://github.com/rnldvrgl)<br>" >> README.md

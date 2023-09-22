@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    # Every 6 hours
-    - cron: "0 */1 * * *"
+    # Every 30 minues
+    - cron: "*/30 * * * *"
   workflow_dispatch: # Add this section for manual triggering
 
 jobs:

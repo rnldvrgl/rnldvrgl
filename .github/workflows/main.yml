@@ -34,6 +34,7 @@ jobs:
           
           # Update README content
           echo "" > README.md
+          echo "Last Updated: $TIMESTAMP" >> README.md
           echo "# Hi there, I'm Ronald Vergel Dela Cruz! 👋" >> README.md
           echo "![gitartwork](gitartwork.svg)" >> README.md
           echo "" >> README.md

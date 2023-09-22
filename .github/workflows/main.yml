@@ -39,8 +39,8 @@ jobs:
           echo "![gitartwork](gitartwork.svg)" >> README.md
           echo "" >> README.md
           echo "## About Me:" >> README.md
-          echo "I'm an aspiring full stack web developer passionate about creating interactive web applications and exploring various technologies and frameworks." >> README.md
-          echo "- 🔭 I’m currently working on Genie." >> README.md
+          echo "I'm a full stack web developer at GeoPro Global Solutions Inc. that is passionate about creating interactive web applications and exploring various technologies and frameworks." >> README.md
+          echo "- 🔭 I’m currently working on Easethethics Project, Netflix Clone, Portfolio, etc." >> README.md
           echo "- 🌱 I’m currently learning Next.js, React.js, and Prisma." >> README.md
           echo "- 💬 Ask me about web development." >> README.md
           echo "- 📫 How to reach me: delacruz.ronaldvergel@gmail.com" >> README.md

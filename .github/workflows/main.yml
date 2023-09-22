@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    # Every 30 minues
+    # Every 30 minutes
     - cron: "*/30 * * * *"
   workflow_dispatch: # Add this section for manual triggering
 
@@ -10,7 +10,16 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        node-version: [16.x] # Specify Node.js 16
+
     steps:
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+
       - name: Check out code
         uses: actions/checkout@v2
 

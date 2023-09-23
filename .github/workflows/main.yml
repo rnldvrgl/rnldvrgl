@@ -30,7 +30,7 @@ jobs:
           git config user.name "Ronald Vergel Dela Cruz"
 
           # Generate a timestamp
-          TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
+          TIMESTAMP=$(TZ=Asia/Manila date +"%Y-%m-%d %I:%M:%S %p")
           
           # Update README content
           echo "" > README.md

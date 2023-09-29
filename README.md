@@ -1,10 +1,9 @@
 
-Last Updated: 2023-09-29 09:50:39 PM
+Last Updated: 2023-09-29 09:54:06 PM
 ![gitartwork](gitartwork.svg)
 
 ## Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)
-<img align=right alt=Coding width=400 src=https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif>
 ## About Me:
 I'm a full stack web developer at GeoPro Global Solutions Inc. that is passionate about creating interactive web applications and exploring various technologies and frameworks.
 - 🔭 I’m currently working on Easethethics Project, Netflix Clone, Portfolio, etc.
@@ -60,6 +59,8 @@ Here are some of the languages, frameworks, and databases I work with:<br>
   <a href='https://www.typescriptlang.org/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' alt='TypeScript' width='40' height='40'/></a>
 
 <div align='center'>
+
+## Languages and Tools:
 ## GitHub Stats:
 Explore my GitHub stats and coding activities:<br>
 <img src='https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark' alt='GitHub Stats'><br>

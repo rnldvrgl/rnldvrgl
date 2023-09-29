@@ -1,5 +1,5 @@
 
-Last Updated: 2023-09-29 09:38:30 PM
+Last Updated: 2023-09-29 09:43:54 PM
 # Hi there, I'm Ronald Vergel Dela Cruz! 👋
 ![gitartwork](gitartwork.svg)
 
@@ -57,11 +57,13 @@ Here are some of the languages, frameworks, and databases I work with:<br>
   <a href='https://tailwindcss.com/' target='_blank' rel='noreferrer'><img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt='Tailwind CSS' width='40' height='40'/></a>
   <a href='https://www.typescriptlang.org/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' alt='TypeScript' width='40' height='40'/></a>
 
+<div align='center'>
 ## GitHub Stats:
 Explore my GitHub stats and coding activities:<br>
-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)](https://github.com/rnldvrgl)<br>
-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320)](https://github.com/rnldvrgl)<br>
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark)](https://github.com/rnldvrgl)
+<img src='https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark' alt='GitHub Stats'><br>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320' alt='Top Languages'><br>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark' alt='GitHub Streak'>
+</div>
 
 ## Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)

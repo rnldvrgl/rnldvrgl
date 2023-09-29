@@ -1,8 +1,10 @@
 
-Last Updated: 2023-09-29 09:43:54 PM
-# Hi there, I'm Ronald Vergel Dela Cruz! 👋
+Last Updated: 2023-09-29 09:50:39 PM
 ![gitartwork](gitartwork.svg)
 
+## Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)
+<img align=right alt=Coding width=400 src=https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif>
 ## About Me:
 I'm a full stack web developer at GeoPro Global Solutions Inc. that is passionate about creating interactive web applications and exploring various technologies and frameworks.
 - 🔭 I’m currently working on Easethethics Project, Netflix Clone, Portfolio, etc.
@@ -65,5 +67,3 @@ Explore my GitHub stats and coding activities:<br>
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark' alt='GitHub Streak'>
 </div>
 
-## Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)

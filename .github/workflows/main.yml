@@ -35,6 +35,7 @@ jobs:
           # Update README content
           echo "" > README.md
           echo "Last Updated: $TIMESTAMP" >> README.md
+          echo "[![committers.top badge](https://user-badge.committers.top/philippines_private/rnldvrgl.svg)](https://user-badge.committers.top/philippines_private/rnldvrgl)" >> README.md
           echo "![gitartwork](gitartwork.svg)" >> README.md
           echo "" >> README.md
           echo "## Profile Visits:" >> README.md

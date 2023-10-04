@@ -35,11 +35,13 @@ jobs:
           # Update README content
           echo "" > README.md
           echo "Last Updated: $TIMESTAMP" >> README.md
-          echo "[![committers.top badge](https://user-badge.committers.top/philippines_private/rnldvrgl.svg)](https://user-badge.committers.top/philippines_private/rnldvrgl)" >> README.md
           echo "![gitartwork](gitartwork.svg)" >> README.md
           echo "" >> README.md
-          echo "## Profile Visits:" >> README.md
+          echo "## Profile Visits:" >> README.md 
           echo "![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)" >> README.md
+          echo "" > README.md
+          echo "## Committers Top Rank:" >> README.md 
+          echo "[![committers.top badge](https://user-badge.committers.top/philippines_private/rnldvrgl.svg)](https://user-badge.committers.top/philippines_private/rnldvrgl)" >> README.md
           echo "## About Me:" >> README.md
           echo "I'm a full stack web developer at GeoPro Global Solutions Inc. that is passionate about creating interactive web applications and exploring various technologies and frameworks." >> README.md
           echo "- 🔭 I’m currently working on Easethethics Project, Netflix Clone, Portfolio, etc." >> README.md

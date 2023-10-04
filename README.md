@@ -1,10 +1,6 @@
 
-Last Updated: 2023-10-04 08:04:38 AM
+## Committers Top Rank:
 [![committers.top badge](https://user-badge.committers.top/philippines_private/rnldvrgl.svg)](https://user-badge.committers.top/philippines_private/rnldvrgl)
-![gitartwork](gitartwork.svg)
-
-## Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)
 ## About Me:
 I'm a full stack web developer at GeoPro Global Solutions Inc. that is passionate about creating interactive web applications and exploring various technologies and frameworks.
 - 🔭 I’m currently working on Easethethics Project, Netflix Clone, Portfolio, etc.

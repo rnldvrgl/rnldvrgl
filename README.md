@@ -23,7 +23,7 @@ You can connect with me through the following platforms:
 -   Instagram: [rnldvrgl](https://instagram.com/rnldvrgl)
   
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 <img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>
 <img align='left' alt='TypeScript' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' />
 <img align='left' alt='Git' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />
@@ -35,8 +35,9 @@ You can connect with me through the following platforms:
 <img align='left' alt='CSS3' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' />
 <img align='left' alt='React' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />
 <br />
-#
-### 📊 Stats
+
+## 📊 Stats
+
 ![Ronald's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?rnldvrgl&show_icons=true&theme=dark)]
 
 ![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)]
@@ -44,7 +45,7 @@ You can connect with me through the following platforms:
 ![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')]
 
 ![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark')
-#
+
 <details>
  <summary><h3>👨‍💻 Ronald's Coding Journey</h3></summary>
 

@@ -1,6 +1,5 @@
-# 🏄‍♂️ Ronald Vergel Dela Cruz
-**`Full Stack Web Developer`**
-<p>I'm a full stack web developer from Mabalacat, Pampanga that is passionate about creating interactive web applications and exploring various technologies and frameworks.</p>
+
+Last Updated: 2023-10-05 05:26:57 PM
 ![gitartwork](gitartwork.svg)
 
 ### Visitors Count:

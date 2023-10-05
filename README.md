@@ -1,14 +1,18 @@
 # 🏄‍♂️ Ronald Vergel Dela Cruz
 **`Full Stack Web Developer`**
 <p>I'm a full stack web developer from Mabalacat, Pampanga that is passionate about creating interactive web applications and exploring various technologies and frameworks.</p>
+<br />
 
 ![gitartwork](gitartwork.svg)
+
+<br />
 
 ### Visitors Count:
 ![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)
 
 ### Wakatime Stats:
  [![wakatime](https://wakatime.com/badge/user/dca0d72a-b726-4495-bb39-54903b447cd0.svg)](https://wakatime.com/@dca0d72a-b726-4495-bb39-54903b447cd0)
+<br />
 
 <p align='left'>
       <a href='https://github.com/rnldvrgl?tab=followers'>
@@ -18,6 +22,7 @@
          <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.demolab.com/github/stars/rnldvrgl?color=55960c&style=for-the-badge&labelColor=488207&logo=star'/>
       </a>
 </p>
+<br />
 
 ### Connect with Me:
 You can connect with me through the following platforms:
@@ -26,7 +31,7 @@ You can connect with me through the following platforms:
 -   LinkedIn: [delacruz-ronaldvergel](https://linkedin.com/in/delacruz-ronaldvergel)
 -   Facebook: [ronaldvergel.crisostomoii](https://fb.com/ronaldvergel.crisostomoii)
 -   Instagram: [rnldvrgl](https://instagram.com/rnldvrgl)
-  
+<br />
 
 ## 🧰 Languages and Tools
 <img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>
@@ -42,8 +47,6 @@ You can connect with me through the following platforms:
 <br />
 
 ## 📊 Stats
-[![wakatime](https://wakatime.com/badge/user/dca0d72a-b726-4495-bb39-54903b447cd0.svg)](https://wakatime.com/@dca0d72a-b726-4495-bb39-54903b447cd0)
-
 ![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)]
 
 ![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')]

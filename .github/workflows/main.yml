@@ -97,7 +97,6 @@ jobs:
           echo "-   Instagram: [rnldvrgl](https://instagram.com/rnldvrgl)" >> README.md
           echo "" >> README.md
           echo "## 🧰 Languages and Tools:" >> README.md
-          echo "<p align='center'>" >> README.md
           echo " <img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>" >> README.md
           echo " <img align='left' alt='TypeScript' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' />" >> README.md
           echo " <img align='left' alt='Git' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />" >> README.md
@@ -118,20 +117,17 @@ jobs:
           echo " <img align='left' alt='Sass' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' />" >> README.md
           echo " <img align='left' alt='Headless UI' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg' />" >> README.md
           echo " <img align='left' alt='Shadcn' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' />" >> README.md          
-          echo "</p>" >> README.md
           
           echo "" >> README.md
           echo " <br />" >> README.md
           echo " <br />" >> README.md
           echo "" >> README.md
           echo "## 📊 Stats:" >> README.md
-          echo "<p align='center'>" >> README.md
           echo "![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)" >> README.md
           echo "" >> README.md
           echo "![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')" >> README.md
           echo "" >> README.md
           echo "![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&show_icons=true&theme=dark')" >> README.md
-          echo "</p>" >> README.md
           
           git add README.md
           git commit -m "Update README"

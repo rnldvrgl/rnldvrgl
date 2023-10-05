@@ -8,6 +8,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)
 
 <p align='left'>
+      [![wakatime](https://wakatime.com/badge/user/dca0d72a-b726-4495-bb39-54903b447cd0.svg)](https://wakatime.com/@dca0d72a-b726-4495-bb39-54903b447cd0)
       <a href='https://github.com/rnldvrgl?tab=followers'>
          <img alt='followers' title='Follow me on Github' src='https://custom-icon-badges.demolab.com/github/followers/rnldvrgl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/></a>
       <a href='https://github.com/rnldvrgl?tab=repositories&sort=stargazers'>

@@ -13,7 +13,7 @@
       <a href='https://github.com/rnldvrgl?tab=repositories&sort=stargazers'>
          <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.demolab.com/github/stars/rnldvrgl?color=55960c&style=for-the-badge&labelColor=488207&logo=star'/></a>
    </p>
----
+
 ### Connect with Me:
 You can connect with me through the following platforms:
 

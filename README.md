@@ -4,14 +4,15 @@
 
 ![gitartwork](gitartwork.svg)
 
+### Visitors Count:
 ![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)
 
-   <p align='left'>
+<p align='left'>
       <a href='https://github.com/rnldvrgl?tab=followers'>
          <img alt='followers' title='Follow me on Github' src='https://custom-icon-badges.demolab.com/github/followers/rnldvrgl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/></a>
       <a href='https://github.com/rnldvrgl?tab=repositories&sort=stargazers'>
          <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.demolab.com/github/stars/rnldvrgl?color=55960c&style=for-the-badge&labelColor=488207&logo=star'/></a>
-   </p>
+</p>
 
 ### Connect with Me:
 You can connect with me through the following platforms:

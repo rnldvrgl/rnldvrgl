@@ -1,7 +1,6 @@
 # 🏄‍♂️ Ronald Vergel Dela Cruz
 **`Full Stack Web Developer`**
 <p>I'm a full stack web developer from Mabalacat, Pampanga that is passionate about creating interactive web applications and exploring various technologies and frameworks.</p>
-
 ![gitartwork](gitartwork.svg)
 
 ### Visitors Count:
@@ -16,7 +15,7 @@
       </a>
       <a href='https://github.com/rnldvrgl?tab=repositories&sort=stargazers'>
          <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.demolab.com/github/stars/rnldvrgl?color=55960c&style=for-the-badge&labelColor=488207&logo=star'/>
-      </a>
+   </a>
 </p>
 
 <details>
@@ -51,7 +50,6 @@
 - 🌊 I'm working on conquering my fears, such as flying cockroaches, deep oceans, tight spaces, large objects, and heights.
 </details>
 
-
 ## Connect with Me:
 You can connect with me through the following platforms:
 
@@ -61,9 +59,6 @@ You can connect with me through the following platforms:
 -   Instagram: [rnldvrgl](https://instagram.com/rnldvrgl)
 
 ## 🧰 Languages and Tools:
- <img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>
- <img align='left' alt='TypeScript' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' />
- <img align='left' alt='Git' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />
  <img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>
  <img align='left' alt='TypeScript' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' />
  <img align='left' alt='Git' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />
@@ -81,4 +76,3 @@ You can connect with me through the following platforms:
 ![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')]
 
 ![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark')
-

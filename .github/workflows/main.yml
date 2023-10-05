@@ -119,11 +119,8 @@ jobs:
           echo " <img align='left' alt='Sass' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' />" >> README.md
           echo " <img align='left' alt='Headless UI' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg' />" >> README.md
           echo " <img align='left' alt='Shadcn' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' />" >> README.md          
-          echo "</ div>" >> README.md
-          
-          echo "" >> README.md
-          echo " <br />" >> README.md
-          echo " <br />" >> README.md
+          echo "</div>" >> README.md
+
           echo "" >> README.md
           echo "## 📊 Stats:" >> README.md
           echo "<div align='center'>" >> README.md
@@ -132,7 +129,7 @@ jobs:
           echo "![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')" >> README.md
           echo "" >> README.md
           echo "![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&show_icons=true&theme=dark')" >> README.md
-          echo "</ div>" >> README.md
+          echo "</div>" >> README.md
           
           git add README.md
           git commit -m "Update README"

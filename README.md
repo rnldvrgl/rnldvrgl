@@ -21,7 +21,9 @@ You can connect with me through the following platforms:
 -   LinkedIn: [delacruz-ronaldvergel](https://linkedin.com/in/delacruz-ronaldvergel)
 -   Facebook: [ronaldvergel.crisostomoii](https://fb.com/ronaldvergel.crisostomoii)
 -   Instagram: [rnldvrgl](https://instagram.com/rnldvrgl)
+  
 <br />
+
 ### 🧰 Languages and Tools
 <img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>
 <img align='left' alt='TypeScript' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' />

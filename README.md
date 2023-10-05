@@ -1,7 +1,7 @@
 # 🏄‍♂️ Ronald Vergel Dela Cruz
 **`Full Stack Web Developer`**
 <p>I'm a full stack web developer from Mabalacat, Pampanga that is passionate about creating interactive web applications and exploring various technologies and frameworks.</p>
-Last Updated: 2023-10-05 05:38:19 PM
+Last Updated: 2023-10-05 05:41:11 PM
 
 ![gitartwork](gitartwork.svg)
 
@@ -62,6 +62,7 @@ You can connect with me through the following platforms:
 -   Instagram: [rnldvrgl](https://instagram.com/rnldvrgl)
 
 ## 🧰 Languages and Tools:
+<p align='center'>
  <img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>
  <img align='left' alt='TypeScript' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' />
  <img align='left' alt='Git' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />
@@ -75,13 +76,23 @@ You can connect with me through the following platforms:
  <img align='left' alt='PHP' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' />
  <img align='left' alt='Laravel' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg' />
  <img align='left' alt='ASP.NET' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg' />
+ <img align='left' alt='React.js' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />
+ <img align='left' alt='GSAP' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg' />
+ <img align='left' alt='Prisma' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg' />
+ <img align='left' alt='Swiper.js' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swiper/swiper-original.svg' />
+ <img align='left' alt='Sass' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' />
+ <img align='left' alt='Headless UI' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg' />
+ <img align='left' alt='Shadcn' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' />
+</p'>
 
  <br />
  <br />
 
 ## 📊 Stats:
+<p align='center'>
 ![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)
 
 ![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')
 
 ![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&show_icons=true&theme=dark')
+</p'>

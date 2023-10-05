@@ -4,10 +4,8 @@
 
 ![gitartwork](gitartwork.svg)
 
-## Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)
-
    <p align='left'>
+      ![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)
       <a href='https://github.com/rnldvrgl?tab=followers'>
          <img alt='followers' title='Follow me on Github' src='https://custom-icon-badges.demolab.com/github/followers/rnldvrgl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/></a>
       <a href='https://github.com/rnldvrgl?tab=repositories&sort=stargazers'>
@@ -38,10 +36,10 @@ You can connect with me through the following platforms:
 <br />
 #
 ### 📊 Stats
-[![Ronald's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?rnldvrgl&show_icons=true&theme=dark)]<br>
-[![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)]<br>
-[![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')]<br>
-[![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark')]
+![Ronald's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?rnldvrgl&show_icons=true&theme=dark)]<br>
+![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)]<br>
+![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')]<br>
+![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark')
 #
 <details>
  <summary><h3>👨‍💻 Ronald's Coding Journey</h3></summary>

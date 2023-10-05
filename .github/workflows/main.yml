@@ -120,6 +120,7 @@ jobs:
           echo "" >> README.md
           echo "<br />" >> README.md
           echo "<br />" >> README.md
+          echo "" >> README.md
           echo "## 📊 Stats:" >> README.md
           echo "<div align='center'>" >> README.md
           echo "" >> README.md

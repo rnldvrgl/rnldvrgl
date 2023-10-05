@@ -40,6 +40,7 @@ jobs:
           echo "![gitartwork](gitartwork.svg)" >> README.md
           echo "" >> README.md
           echo "### Visitors Count:" >> README.md
+          echo "" >> README.md
           echo "![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)" >> README.md
           echo "" >> README.md
           echo "### Wakatime Stats:" >> README.md

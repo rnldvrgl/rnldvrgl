@@ -118,6 +118,8 @@ jobs:
           echo "</div>" >> README.md
 
           echo "" >> README.md
+          echo "<br />" >> README.md
+          echo "<br />" >> README.md
           echo "## 📊 Stats:" >> README.md
           echo "<div align='center'>" >> README.md
           echo "![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)" >> README.md

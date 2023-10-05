@@ -118,14 +118,15 @@ jobs:
           echo "</div>" >> README.md
 
           echo "" >> README.md
-          echo "<br />\n" >> README.md
-          echo "<br />\n" >> README.md
+          echo "<br />" >> README.md
+          echo "<br />" >> README.md
           echo "## 📊 Stats:" >> README.md
-          echo "<div align='center'>\n" >> README.md
+          echo "<div align='center'>" >> README.md
+          echo "" >> README.md
           echo "![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)" >> README.md
-          echo "\n" >> README.md
+          echo "" >> README.md
           echo "![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')" >> README.md
-          echo "\n" >> README.md
+          echo "" >> README.md
           echo "![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&show_icons=true&theme=dark')" >> README.md
           echo "</div>" >> README.md
           

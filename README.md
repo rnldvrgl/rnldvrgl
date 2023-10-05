@@ -1,7 +1,7 @@
 # 🏄‍♂️ Ronald Vergel Dela Cruz
 **`Full Stack Web Developer`**
 <p>I'm a full stack web developer from Mabalacat, Pampanga that is passionate about creating interactive web applications and exploring various technologies and frameworks.</p>
-Last Updated: 2023-10-05 05:32:53 PM
+Last Updated: 2023-10-05 05:37:33 PM
 
 ![gitartwork](gitartwork.svg)
 
@@ -65,10 +65,16 @@ You can connect with me through the following platforms:
  <img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>
  <img align='left' alt='TypeScript' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' />
  <img align='left' alt='Git' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />
- <img align='left' alt='Python' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />
  <img align='left' alt='HTML5' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' />
  <img align='left' alt='CSS3' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' />
  <img align='left' alt='React' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />
+ <img align='left' alt='Node.js' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' />
+ <img align='left' alt='MongoDB' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' />
+ <img align='left' alt='MySQL' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' />
+ <img align='left' alt='PostgreSQL' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' />
+ <img align='left' alt='PHP' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' />
+ <img align='left' alt='Laravel' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg' />
+ <img align='left' alt='ASP.NET' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg' />
 
  <br />
  <br />
@@ -78,4 +84,4 @@ You can connect with me through the following platforms:
 
 ![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')
 
-![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark')
+![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&show_icons=true&theme=dark')

@@ -33,10 +33,11 @@ jobs:
           TIMESTAMP=$(TZ=Asia/Manila date +"%Y-%m-%d %I:%M:%S %p")
 
           # Update README content
-          echo "Last Updated: $TIMESTAMP"
           echo "# 🏄‍♂️ Ronald Vergel Dela Cruz" > README.md
           echo "**\`Full Stack Web Developer\`**" >> README.md
           echo "<p>I'm a full stack web developer from Mabalacat, Pampanga that is passionate about creating interactive web applications and exploring various technologies and frameworks.</p>" >> README.md
+          echo "" > README.md
+          echo "Last Updated: $TIMESTAMP" >> README.md
           echo "![gitartwork](gitartwork.svg)" >> README.md
           echo "" >> README.md
           echo "### Visitors Count:" >> README.md

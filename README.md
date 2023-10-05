@@ -1,7 +1,7 @@
 # 🏄‍♂️ Ronald Vergel Dela Cruz
 **`Full Stack Web Developer`**
 <p>I'm a full stack web developer from Mabalacat, Pampanga that is passionate about creating interactive web applications and exploring various technologies and frameworks.</p>
-Last Updated: 2023-10-05 05:46:31 PM
+Last Updated: 2023-10-05 05:48:45 PM
 
 ![gitartwork](gitartwork.svg)
 
@@ -77,11 +77,7 @@ You can connect with me through the following platforms:
  <img align='left' alt='Laravel' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg' />
  <img align='left' alt='ASP.NET' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg' />
  <img align='left' alt='React.js' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />
- <img align='left' alt='GSAP' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg' />
- <img align='left' alt='Prisma' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg' />
- <img align='left' alt='Swiper.js' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swiper/swiper-original.svg' />
  <img align='left' alt='Sass' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' />
- <img align='left' alt='Headless UI' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg' />
  <img align='left' alt='Shadcn' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' />
 </div>
 

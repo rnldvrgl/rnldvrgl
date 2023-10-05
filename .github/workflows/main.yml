@@ -34,7 +34,8 @@ jobs:
 
           # Update README content
           echo "# 🏄‍♂️ Ronald Vergel Dela Cruz" > README.md
-          echo "**\`Full Stack Web Developer (Developer/Filmmaker/Creator)\`**" >> README.md
+          echo "**\`Full Stack Web Developer\`**" >> README.md
+          echo "<br />" >> README.md
           echo "I'm a full stack web developer from Mabalacat, Pampanga that is passionate about creating interactive web applications and exploring various technologies and frameworks." >> README.md
           echo "---" >> README.md
           echo "![gitartwork](gitartwork.svg)" >> README.md
@@ -49,21 +50,26 @@ jobs:
           echo "         <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.demolab.com/github/stars/rnldvrgl?color=55960c&style=for-the-badge&labelColor=488207&logo=star'/></a>" >> README.md
           echo "   </p>" >> README.md
           echo "---" >> README.md
-          echo "## Connect with Me:" >> README.md
+          echo "### Connect with Me:" >> README.md
           echo "You can connect with me through the following platforms:" >> README.md
           echo "" >> README.md
           echo "-   Twitter: [@rnld_vrgl](https://twitter.com/rnld_vrgl)" >> README.md
           echo "-   LinkedIn: [delacruz-ronaldvergel](https://linkedin.com/in/delacruz-ronaldvergel)" >> README.md
           echo "-   Facebook: [ronaldvergel.crisostomoii](https://fb.com/ronaldvergel.crisostomoii)" >> README.md
           echo "-   Instagram: [rnldvrgl](https://instagram.com/rnldvrgl)" >> README.md
-          echo "" >> README.md
+           echo "<br />" >> README.md
           echo "### 🧰 Languages and Tools" >> README.md
           echo "<img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>" >> README.md
           echo "<img align='left' alt='TypeScript' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' />" >> README.md
           echo "<img align='left' alt='Git' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />" >> README.md
-          # Add more language and tool icons here as needed
+          echo "<img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>" >> README.md
+          echo "<img align='left' alt='TypeScript' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' />" >> README.md
+          echo "<img align='left' alt='Git' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />" >> README.md
+          echo "<img align='left' alt='Python' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />" >> README.md
+          echo "<img align='left' alt='HTML5' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' />" >> README.md
+          echo "<img align='left' alt='CSS3' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' />" >> README.md
+          echo "<img align='left' alt='React' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />" >> README.md
           # ...
-
           echo "<br />" >> README.md
           echo "#" >> README.md
           echo "### 📊 Stats" >> README.md
@@ -74,7 +80,34 @@ jobs:
           echo "#" >> README.md
           echo "<details>" >> README.md
           echo " <summary><h3>👨‍💻 Ronald's Coding Journey</h3></summary>" >> README.md
-          echo "Your coding journey text here..." >> README.md
+          echo "" >> README.md
+          echo "### 🌟 Early Beginnings" >> README.md
+          echo "- 🖥️ As a kid, I was always curious about technology and spent hours exploring computer shops." >> README.md
+          echo "- 🤖 I loved figuring out how things worked and became passionate about computers and programming." >> README.md
+          echo "" >> README.md
+          echo "### 📚 Education and Challenges" >> README.md
+          echo "- 🏫 My educational journey started at Lakandula Day Care Center." >> README.md
+          echo "- 🏫 I later attended Alberto G. Pabalan Elementary School, where I faced challenges and made close friends." >> README.md
+          echo "" >> README.md
+          echo "### 💪 Determination" >> README.md
+          echo "- 🚀 My passion for technology continued to grow, and I started exploring more advanced topics in Information Technology." >> README.md
+          echo "- 🌐 I found web development particularly exciting due to its potential to solve real-world problems innovatively." >> README.md
+          echo "" >> README.md
+          echo "### 🔨 Current Focus" >> README.md
+          echo "- 🔭 I'm currently working on projects like the Easethethics Project, Netflix Clone, and my personal portfolio." >> README.md
+          echo "- 🌱 I'm dedicated to learning Next.js, React.js, and Prisma to enhance my skills and knowledge." >> README.md
+          echo "" >> README.md
+          echo "### 💬 Get in Touch" >> README.md
+          echo "- 📫 You can reach me at delacruz.ronaldvergel@gmail.com." >> README.md
+          echo "- ⚡ Fun fact: I'm Simple, Kind, Intelligent, Loving, and Hot. This describes everything I am Not." >> README.md
+          echo "" >> README.md
+          echo "### 🌍 Personal Goals" >> README.md
+          echo "- 💡 My ultimate goal is to use technology to serve others, especially those close to me." >> README.md
+          echo "- 🌟 I believe in the power of hard work and perseverance to achieve success." >> README.md
+          echo "- 📚 I'm continually learning and growing to make a positive impact in the world of technology." >> README.md
+          echo "" >> README.md
+          echo "### 🎯 Current Challenges" >> README.md
+          echo "- 🌊 I'm working on conquering my fears, such as flying cockroaches, deep oceans, tight spaces, large objects, and heights." >> README.md
           echo "</details>" >> README.md
           git add README.md
           git commit -m "Update README"

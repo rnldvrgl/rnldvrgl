@@ -1,7 +1,7 @@
 # 🏄‍♂️ Ronald Vergel Dela Cruz
 **`Full Stack Web Developer`**
 <p>I'm a full stack web developer from Mabalacat, Pampanga that is passionate about creating interactive web applications and exploring various technologies and frameworks.</p>
-Last Updated: 2023-10-05 05:48:45 PM
+Last Updated: 2023-10-05 05:50:10 PM
 
 ![gitartwork](gitartwork.svg)
 
@@ -81,6 +81,8 @@ You can connect with me through the following platforms:
  <img align='left' alt='Shadcn' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' />
 </div>
 
+<br />
+<br />
 ## 📊 Stats:
 <div align='center'>
 ![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)

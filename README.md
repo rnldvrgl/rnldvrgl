@@ -22,7 +22,6 @@ You can connect with me through the following platforms:
 -   Facebook: [ronaldvergel.crisostomoii](https://fb.com/ronaldvergel.crisostomoii)
 -   Instagram: [rnldvrgl](https://instagram.com/rnldvrgl)
   
-<br />
 
 ### 🧰 Languages and Tools
 <img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>
@@ -38,9 +37,12 @@ You can connect with me through the following platforms:
 <br />
 #
 ### 📊 Stats
-![Ronald's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?rnldvrgl&show_icons=true&theme=dark)]<br>
-![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)]<br>
-![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')]<br>
+![Ronald's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?rnldvrgl&show_icons=true&theme=dark)]
+
+![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)]
+
+![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')]
+
 ![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark')
 #
 <details>

@@ -33,53 +33,29 @@ jobs:
           TIMESTAMP=$(TZ=Asia/Manila date +"%Y-%m-%d %I:%M:%S %p")
 
           # Update README content
+          echo "Last Updated: $TIMESTAMP" >> README.md
           echo "# 🏄‍♂️ Ronald Vergel Dela Cruz" > README.md
           echo "**\`Full Stack Web Developer\`**" >> README.md
-          echo "<br />" >> README.md
-          echo "I'm a full stack web developer from Mabalacat, Pampanga that is passionate about creating interactive web applications and exploring various technologies and frameworks." >> README.md
-          echo "---" >> README.md
+          echo "<p>I'm a full stack web developer from Mabalacat, Pampanga that is passionate about creating interactive web applications and exploring various technologies and frameworks.</p>" >> README.md
           echo "![gitartwork](gitartwork.svg)" >> README.md
-          echo "---" >> README.md
-          echo "## Profile Visits:" >> README.md
+          echo "" >> README.md
+          echo "### Visitors Count:" >> README.md
           echo "![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)" >> README.md
           echo "" >> README.md
-          echo "   <p align='left'>" >> README.md
-          echo "      <a href='https://github.com/rnldvrgl?tab=followers'>" >> README.md
-          echo "         <img alt='followers' title='Follow me on Github' src='https://custom-icon-badges.demolab.com/github/followers/rnldvrgl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/></a>" >> README.md
-          echo "      <a href='https://github.com/rnldvrgl?tab=repositories&sort=stargazers'>" >> README.md
-          echo "         <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.demolab.com/github/stars/rnldvrgl?color=55960c&style=for-the-badge&labelColor=488207&logo=star'/></a>" >> README.md
-          echo "   </p>" >> README.md
-          echo "---" >> README.md
-          echo "### Connect with Me:" >> README.md
-          echo "You can connect with me through the following platforms:" >> README.md
+          echo "### Wakatime Stats:" >> README.md
+          echo " [![wakatime](https://wakatime.com/badge/user/dca0d72a-b726-4495-bb39-54903b447cd0.svg)](https://wakatime.com/@dca0d72a-b726-4495-bb39-54903b447cd0)" >> README.md
           echo "" >> README.md
-          echo "-   Twitter: [@rnld_vrgl](https://twitter.com/rnld_vrgl)" >> README.md
-          echo "-   LinkedIn: [delacruz-ronaldvergel](https://linkedin.com/in/delacruz-ronaldvergel)" >> README.md
-          echo "-   Facebook: [ronaldvergel.crisostomoii](https://fb.com/ronaldvergel.crisostomoii)" >> README.md
-          echo "-   Instagram: [rnldvrgl](https://instagram.com/rnldvrgl)" >> README.md
-           echo "<br />" >> README.md
-          echo "### 🧰 Languages and Tools" >> README.md
-          echo "<img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>" >> README.md
-          echo "<img align='left' alt='TypeScript' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' />" >> README.md
-          echo "<img align='left' alt='Git' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />" >> README.md
-          echo "<img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>" >> README.md
-          echo "<img align='left' alt='TypeScript' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' />" >> README.md
-          echo "<img align='left' alt='Git' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />" >> README.md
-          echo "<img align='left' alt='Python' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />" >> README.md
-          echo "<img align='left' alt='HTML5' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' />" >> README.md
-          echo "<img align='left' alt='CSS3' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' />" >> README.md
-          echo "<img align='left' alt='React' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />" >> README.md
-          # ...
-          echo "<br />" >> README.md
-          echo "#" >> README.md
-          echo "### 📊 Stats" >> README.md
-          echo "[![Ronald's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?rnldvrgl&show_icons=true&theme=dark)]<br>" >> README.md
-          echo "[![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)]<br>" >> README.md
-          echo "[![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')]<br>" >> README.md
-          echo "[![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark')]" >> README.md
-          echo "#" >> README.md
+          echo "<p align='left'>" >> README.md
+          echo "      <a href='https://github.com/rnldvrgl?tab=followers'>" >> README.md
+          echo "         <img alt='followers' title='Follow me on Github' src='https://custom-icon-badges.demolab.com/github/followers/rnldvrgl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>" >> README.md
+          echo "      </a>" >> README.md
+          echo "      <a href='https://github.com/rnldvrgl?tab=repositories&sort=stargazers'>" >> README.md
+          echo "         <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.demolab.com/github/stars/rnldvrgl?color=55960c&style=for-the-badge&labelColor=488207&logo=star'/>" >> README.md
+          echo "   </a>" >> README.md
+          echo "</p>" >> README.md
+          echo "" >> README.md
           echo "<details>" >> README.md
-          echo " <summary><h3>👨‍💻 Ronald's Coding Journey</h3></summary>" >> README.md
+          echo " <summary><h1>👨‍💻 Ronald's Coding Journey</h1></summary>" >> README.md
           echo "" >> README.md
           echo "### 🌟 Early Beginnings" >> README.md
           echo "- 🖥️ As a kid, I was always curious about technology and spent hours exploring computer shops." >> README.md
@@ -109,9 +85,37 @@ jobs:
           echo "### 🎯 Current Challenges" >> README.md
           echo "- 🌊 I'm working on conquering my fears, such as flying cockroaches, deep oceans, tight spaces, large objects, and heights." >> README.md
           echo "</details>" >> README.md
+          echo "" >> README.md
+          echo "## Connect with Me:" >> README.md
+          echo "You can connect with me through the following platforms:" >> README.md
+          echo "" >> README.md
+          echo "-   Twitter: [@rnld_vrgl](https://twitter.com/rnld_vrgl)" >> README.md
+          echo "-   LinkedIn: [delacruz-ronaldvergel](https://linkedin.com/in/delacruz-ronaldvergel)" >> README.md
+          echo "-   Facebook: [ronaldvergel.crisostomoii](https://fb.com/ronaldvergel.crisostomoii)" >> README.md
+          echo "-   Instagram: [rnldvrgl](https://instagram.com/rnldvrgl)" >> README.md
+          echo "" >> README.md
+          echo "## 🧰 Languages and Tools:" >> README.md
+          echo " <img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>" >> README.md
+          echo " <img align='left' alt='TypeScript' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' />" >> README.md
+          echo " <img align='left' alt='Git' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />" >> README.md
+          echo " <img align='left' alt='Python' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />" >> README.md
+          echo " <img align='left' alt='HTML5' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' />" >> README.md
+          echo " <img align='left' alt='CSS3' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' />" >> README.md
+          echo " <img align='left' alt='React' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />" >> README.md
+          echo "" >> README.md
+          echo " <br />" >> README.md
+          echo " <br />" >> README.md
+          echo "" >> README.md
+          echo "## 📊 Stats:" >> README.md
+          echo "![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)]" >> README.md
+          echo "" >> README.md
+          echo "![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')]" >> README.md
+          echo "" >> README.md
+          echo "![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&theme=dark')" >> README.md
+
           git add README.md
           git commit -m "Update README"
           git push
-          
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

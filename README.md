@@ -37,7 +37,7 @@ You can connect with me through the following platforms:
 <br />
 
 ## 📊 Stats
-[![Ronald's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?rnld=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/dca0d72a-b726-4495-bb39-54903b447cd0.svg)](https://wakatime.com/@dca0d72a-b726-4495-bb39-54903b447cd0)
 
 ![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)]
 

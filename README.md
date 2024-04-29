@@ -39,7 +39,7 @@ Last Updated: 2024-04-29 10:09:06 AM
 - 🌐 I found web development particularly exciting due to its potential to solve real-world problems innovatively.
 
 ### 🔨 Current Focus
-- 🔭 I'm currently working on projects like the Easethethics Project, Netflix Clone, and my personal portfolio.
+- 🔭 I'm currently working on our company project `NurseKo`.
 - 🌱 I'm dedicated to learning Next.js, React.js, and Prisma to enhance my skills and knowledge.
 
 ### 💬 Get in Touch

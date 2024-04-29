@@ -24,8 +24,7 @@ Last Updated: 2024-04-29 10:09:06 AM
    </a>
 </p>
 
-<details>
- <summary><h1>👨‍💻 Ronald's Coding Journey</h1></summary>
+<h1>👨‍💻 Ronald's Coding Journey</h1>
 
 ### 🌟 Early Beginnings
 - 🖥️ As a kid, I was always curious about technology and spent hours exploring computer shops.
@@ -54,7 +53,6 @@ Last Updated: 2024-04-29 10:09:06 AM
 
 ### 🎯 Current Challenges
 - 🌊 I'm working on conquering my fears, such as flying cockroaches, deep oceans, tight spaces, large objects, and heights.
-</details>
 
 ## Connect with Me:
 You can connect with me through the following platforms:

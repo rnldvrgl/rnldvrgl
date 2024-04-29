@@ -1,16 +1,13 @@
 # 🏄‍♂️ Ronald Vergel Dela Cruz
 **`Full Stack Web Developer`**
 <p>I'm a full stack web developer from Mabalacat, Pampanga that is passionate about creating interactive web applications and exploring various technologies and frameworks.</p>
-Last Updated: 2024-04-29 10:09:06 AM
+Last Updated: 2024-04-29 10:40:23 AM
 
 ![gitartwork](gitartwork.svg)
 
 ### Visitors Count:
 
 ![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)
-
-### Top Contributor:
-[![committers.top badge](https://user-badge.committers.top/philippines/rnldvrgl.svg)](https://user-badge.committers.top/philippines/rnldvrgl)
 
 ### Wakatime Stats:
  [![wakatime](https://wakatime.com/badge/user/dca0d72a-b726-4495-bb39-54903b447cd0.svg)](https://wakatime.com/@dca0d72a-b726-4495-bb39-54903b447cd0)
@@ -24,7 +21,8 @@ Last Updated: 2024-04-29 10:09:06 AM
    </a>
 </p>
 
-<h1>👨‍💻 Ronald's Coding Journey</h1>
+<details>
+ <summary><h1>👨‍💻 Ronald's Coding Journey</h1></summary>
 
 ### 🌟 Early Beginnings
 - 🖥️ As a kid, I was always curious about technology and spent hours exploring computer shops.
@@ -39,7 +37,7 @@ Last Updated: 2024-04-29 10:09:06 AM
 - 🌐 I found web development particularly exciting due to its potential to solve real-world problems innovatively.
 
 ### 🔨 Current Focus
-- 🔭 I'm currently working on our company project `NurseKo`.
+- 🔭 I'm currently working on projects like the Easethethics Project, Netflix Clone, and my personal portfolio.
 - 🌱 I'm dedicated to learning Next.js, React.js, and Prisma to enhance my skills and knowledge.
 
 ### 💬 Get in Touch
@@ -53,6 +51,7 @@ Last Updated: 2024-04-29 10:09:06 AM
 
 ### 🎯 Current Challenges
 - 🌊 I'm working on conquering my fears, such as flying cockroaches, deep oceans, tight spaces, large objects, and heights.
+</details>
 
 ## Connect with Me:
 You can connect with me through the following platforms:

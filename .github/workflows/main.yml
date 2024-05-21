@@ -40,6 +40,10 @@ jobs:
           echo "" >> README.md
           echo "![gitartwork](gitartwork.svg)" >> README.md
           echo "" >> README.md
+          echo "### Top Contributtor:" >> README.md
+          echo "" >> README.md
+          echo "[![committers.top badge](https://user-badge.committers.top/philippines/rnldvrgl.svg)](https://user-badge.committers.top/philippines/rndvrgl)" >> README.md
+          echo "" >> README.md
           echo "### Visitors Count:" >> README.md
           echo "" >> README.md
           echo "![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)" >> README.md

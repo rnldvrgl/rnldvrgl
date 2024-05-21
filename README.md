@@ -5,9 +5,6 @@ Last Updated: 2024-05-21 12:38:18 PM
 
 ![gitartwork](gitartwork.svg)
 
-### Top Committer:
-[![committers.top badge](https://user-badge.committers.top/philippines/rnldvrgl.svg)](https://user-badge.committers.top/philippines/rnldvrgl)
-
 ## Top Contributor:
 [![committers.top badge](https://user-badge.committers.top/philippines_public/rnldvrgl.svg)](https://user-badge.committers.top/philippines_public/rndvrgl)
 

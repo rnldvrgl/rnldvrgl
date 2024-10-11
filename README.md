@@ -5,6 +5,8 @@ Last Updated: 2024-10-11 07:39:11 AM
 
 ![gitartwork](gitartwork.svg)
 
+<a href="https://app.daily.dev/ronaldvergeldelacruz"><img src="https://api.daily.dev/devcards/v2/82gG85aPOwQGEBF0MUEYB.png?r=sht" width="356" alt="Ronald Vergel Dela Cruz's Dev Card"/></a>
+
 ### Top Contributtor:
 
 [![committers.top badge](https://user-badge.committers.top/philippines/rnldvrgl.svg)](https://user-badge.committers.top/philippines/rndvrgl)

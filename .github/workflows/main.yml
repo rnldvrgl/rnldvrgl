@@ -2,7 +2,7 @@ name: 🔄 Update README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Every 6 hours
+    - cron: "*/30 * * * *"
   workflow_dispatch:          # Manual trigger from GitHub UI
 
 jobs:

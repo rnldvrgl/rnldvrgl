@@ -197,6 +197,6 @@ ginie-admin              2 hrs 15 mins       ██░░░░░░░░░�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-*Last updated: <!-- will be set by workflow -->*
+*Last updated: February 19, 2026 • 11:24 AM PHT*
 
 </div>

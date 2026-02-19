@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ronald%20Vergel%20Dela%20Cruz&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%F0%9F%87%B5%F0%9F%87%AD&descAlignY=58&descSize=16&descColor=b0b8ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ronald%20Vergel%20Dela%20Cruz&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=16&descColor=b0b8ff"/>
 </div>
 
 <div align="center">
@@ -24,13 +24,14 @@
 
 ---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+
 
 ## 🧑‍💻 About Me
-
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+<br/>
 I'm a full stack developer from **Mabalacat, Pampanga** who loves turning ideas into polished, real-world web apps. I care about clean code, great UX, and always picking up something new.
 
-<br/>
+
 
 - 🔭 &nbsp;Building: **RVDC Ref and Aircon Webapp** & my portfolio
 - 🌱 &nbsp;Currently learning: **TanStack**, **Django REST**, **advanced Next.js**

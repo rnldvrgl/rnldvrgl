@@ -23,7 +23,7 @@ jobs:
       - name: ⏱️ Update WakaTime section
         uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: waka_4549e423-25a3-49a3-81db-19e16073bc9c
+          WAKATIME_API_KEY: "waka_4549e423-25a3-49a3-81db-19e16073bc9c"
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"

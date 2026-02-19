@@ -24,15 +24,15 @@
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 ## 🧑‍💻 About Me
 
-I'm a full stack developer from **Mabalacat, Pampanga 🇵🇭** who loves turning ideas into polished, real-world web apps. I care about clean code, great UX, and always picking up something new.
+I'm a full stack developer from **Mabalacat, Pampanga** who loves turning ideas into polished, real-world web apps. I care about clean code, great UX, and always picking up something new.
 
 <br/>
 
-- 🔭 &nbsp;Building: **Easethethics Project** & my portfolio
+- 🔭 &nbsp;Building: **RVDC Ref and Aircon Webapp** & my portfolio
 - 🌱 &nbsp;Currently learning: **TanStack**, **Django REST**, **advanced Next.js**
 - 🤝 &nbsp;Open to collaborating on interesting projects
 - 💡 &nbsp;Goal: Use tech to genuinely serve the people around me

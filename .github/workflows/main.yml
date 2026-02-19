@@ -1,143 +1,67 @@
-name: Update README
+name: 🔄 Update README
 
 on:
   schedule:
-    # Every 30 minutes
-    - cron: "*/30 * * * *"
-  workflow_dispatch: # Add this section for manual triggering
+     - cron: "*/30 * * * *"  
+  workflow_dispatch:          # Manual trigger from GitHub UI
 
 jobs:
-  update-readme:
+  # ─── Job 1: WakaTime Stats ───────────────────────────────────────────────────
+  update-waka:
+    name: Update WakaTime stats
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [16.x] # Specify Node.js 16
+    permissions:
+      contents: write
 
     steps:
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v4
         with:
-          node-version: ${{ matrix.node-version }}
+          token: ${{ secrets.GH_TOKEN }}
 
-      - name: Check out code
-        uses: actions/checkout@v2
+      - name: ⏱️ Update WakaTime section
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_PROJECTS: "True"
+          SHOW_TIMEZONE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_SHORT_INFO: "False"
 
-      - name: Update README
+  # ─── Job 2: Timestamp ────────────────────────────────────────────────────────
+  update-timestamp:
+    name: Refresh timestamp
+    runs-on: ubuntu-latest
+    needs: update-waka  # Run after WakaTime to avoid git push conflicts
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main  # Always pull latest after waka job may have pushed
+
+      - name: 🕐 Inject timestamp
         run: |
-          # Set Git user email and name
-          git config user.email "delacruz.ronaldvergel@gmail.com"
-          git config user.name "Ronald Vergel Dela Cruz"
+          TIMESTAMP=$(TZ=Asia/Manila date +"%B %d, %Y • %I:%M %p PHT")
+          sed -i "s|^\*Last updated: .*\*$|*Last updated: $TIMESTAMP*|g" README.md
 
-          # Generate a timestamp
-          TIMESTAMP=$(TZ=Asia/Manila date +"%Y-%m-%d %I:%M:%S %p")
-
-          # Update README content
-          echo "# 🏄‍♂️ Ronald Vergel Dela Cruz" > README.md
-          echo "**\`Full Stack Web Developer\`**" >> README.md
-          echo "<p>I'm a full stack web developer from Mabalacat, Pampanga that is passionate about creating interactive web applications and exploring various technologies and frameworks.</p>" >> README.md
-          echo "Last Updated: $TIMESTAMP" >> README.md
-          echo "" >> README.md
-          echo "![gitartwork](gitartwork.svg)" >> README.md
-          echo "" >> README.md
-          echo "### Top Contributtor:" >> README.md
-          echo "" >> README.md
-          echo "[![committers.top badge](https://user-badge.committers.top/philippines/rnldvrgl.svg)](https://user-badge.committers.top/philippines/rndvrgl)" >> README.md
-          echo "" >> README.md
-          echo "### Visitors Count:" >> README.md
-          echo "" >> README.md
-          echo "![Visitor Count](https://profile-counter.glitch.me/{rnldvrgl}/count.svg)" >> README.md
-          echo "" >> README.md
-          echo "### Wakatime Stats:" >> README.md
-          echo " [![wakatime](https://wakatime.com/badge/user/dca0d72a-b726-4495-bb39-54903b447cd0.svg)](https://wakatime.com/@dca0d72a-b726-4495-bb39-54903b447cd0)" >> README.md
-          echo "" >> README.md
-          echo "<p align='left'>" >> README.md
-          echo "      <a href='https://github.com/rnldvrgl?tab=followers'>" >> README.md
-          echo "         <img alt='followers' title='Follow me on Github' src='https://custom-icon-badges.demolab.com/github/followers/rnldvrgl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>" >> README.md
-          echo "      </a>" >> README.md
-          echo "      <a href='https://github.com/rnldvrgl?tab=repositories&sort=stargazers'>" >> README.md
-          echo "         <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.demolab.com/github/stars/rnldvrgl?color=55960c&style=for-the-badge&labelColor=488207&logo=star'/>" >> README.md
-          echo "   </a>" >> README.md
-          echo "</p>" >> README.md
-          echo "" >> README.md
-          echo "<details>" >> README.md
-          echo " <summary><h1>👨‍💻 Ronald's Coding Journey</h1></summary>" >> README.md
-          echo "" >> README.md
-          echo "### 🌟 Early Beginnings" >> README.md
-          echo "- 🖥️ As a kid, I was always curious about technology and spent hours exploring computer shops." >> README.md
-          echo "- 🤖 I loved figuring out how things worked and became passionate about computers and programming." >> README.md
-          echo "" >> README.md
-          echo "### 📚 Education and Challenges" >> README.md
-          echo "- 🏫 My educational journey started at Lakandula Day Care Center." >> README.md
-          echo "- 🏫 I later attended Alberto G. Pabalan Elementary School, where I faced challenges and made close friends." >> README.md
-          echo "" >> README.md
-          echo "### 💪 Determination" >> README.md
-          echo "- 🚀 My passion for technology continued to grow, and I started exploring more advanced topics in Information Technology." >> README.md
-          echo "- 🌐 I found web development particularly exciting due to its potential to solve real-world problems innovatively." >> README.md
-          echo "" >> README.md
-          echo "### 🔨 Current Focus" >> README.md
-          echo "- 🔭 I'm currently working on projects like the Easethethics Project, Netflix Clone, and my personal portfolio." >> README.md
-          echo "- 🌱 I'm dedicated to learning Next.js, React.js, and Prisma to enhance my skills and knowledge." >> README.md
-          echo "" >> README.md
-          echo "### 💬 Get in Touch" >> README.md
-          echo "- 📫 You can reach me at delacruz.ronaldvergel@gmail.com." >> README.md
-          echo "- ⚡ Fun fact: I'm Simple, Kind, Intelligent, Loving, and Hot. This describes everything I am Not." >> README.md
-          echo "" >> README.md
-          echo "### 🌍 Personal Goals" >> README.md
-          echo "- 💡 My ultimate goal is to use technology to serve others, especially those close to me." >> README.md
-          echo "- 🌟 I believe in the power of hard work and perseverance to achieve success." >> README.md
-          echo "- 📚 I'm continually learning and growing to make a positive impact in the world of technology." >> README.md
-          echo "" >> README.md
-          echo "### 🎯 Current Challenges" >> README.md
-          echo "- 🌊 I'm working on conquering my fears, such as flying cockroaches, deep oceans, tight spaces, large objects, and heights." >> README.md
-          echo "</details>" >> README.md
-          echo "" >> README.md
-          echo "## Connect with Me:" >> README.md
-          echo "You can connect with me through the following platforms:" >> README.md
-          echo "" >> README.md
-          echo "-   Twitter: [@rnld_vrgl](https://twitter.com/rnld_vrgl)" >> README.md
-          echo "-   LinkedIn: [delacruz-ronaldvergel](https://linkedin.com/in/delacruz-ronaldvergel)" >> README.md
-          echo "-   Facebook: [ronaldvergel.crisostomoii](https://fb.com/ronaldvergel.crisostomoii)" >> README.md
-          echo "-   Instagram: [rnldvrgl](https://instagram.com/rnldvrgl)" >> README.md
-          echo "" >> README.md
-          
-          echo "## 🧰 Languages and Tools:" >> README.md
-          echo "<div align='center'>" >> README.md
-          echo " <img align='left' alt='Java' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>" >> README.md
-          echo " <img align='left' alt='TypeScript' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' />" >> README.md
-          echo " <img align='left' alt='Git' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />" >> README.md
-          echo " <img align='left' alt='HTML5' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' />" >> README.md
-          echo " <img align='left' alt='CSS3' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' />" >> README.md
-          echo " <img align='left' alt='React' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />" >> README.md
-          echo " <img align='left' alt='Node.js' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' />" >> README.md
-          echo " <img align='left' alt='MongoDB' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' />" >> README.md
-          echo " <img align='left' alt='MySQL' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' />" >> README.md
-          echo " <img align='left' alt='PostgreSQL' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' />" >> README.md
-          echo " <img align='left' alt='PHP' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' />" >> README.md
-          echo " <img align='left' alt='Laravel' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg' />" >> README.md
-          echo " <img align='left' alt='ASP.NET' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg' />" >> README.md
-          echo " <img align='left' alt='React.js' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />" >> README.md
-          echo " <img align='left' alt='Sass' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' />" >> README.md
-          echo " <img align='left' alt='Shadcn' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' />" >> README.md          
-          echo "</div>" >> README.md
-
-          echo "" >> README.md
-          echo "<br />" >> README.md
-          echo "<br />" >> README.md
-          echo "" >> README.md
-          echo "## 📊 Stats:" >> README.md
-          echo "<div align='center'>" >> README.md
-          echo "" >> README.md
-          echo "![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnldvrgl&show_icons=true&theme=dark)" >> README.md
-          echo "" >> README.md
-          echo "![Ronald's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rnldvrgl&theme=dark&hide_progress=true&layout=compact&langs_count=8&card_width=320')" >> README.md
-          echo "" >> README.md
-          echo "![Ronald's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rnldvrgl&show_icons=true&theme=dark')" >> README.md
-          echo "</div>" >> README.md
-          
+      - name: 📤 Commit & push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update README"
+          git commit -m "chore: update README timestamp [skip ci]"
           git push
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
